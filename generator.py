@@ -17,7 +17,7 @@ def bestPlayer(players):
                 return player
         players = teams[players[0][0]]
 
-def pos(players, check, exc=[]):
+def pos(players, check, exc=["!"]):
     ans = []
     for player in players:
         for c in check:
