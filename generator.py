@@ -8,7 +8,7 @@ def bestPlayer(players):
     def f(player):
         return -1 * (int(player[2]) + int(player[3]) + int(player[3]))
 
-    sorted(players, key=f)
+    players = sorted(players, key=f)
 
     while True:
         for player in players:
