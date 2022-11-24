@@ -11,8 +11,8 @@ We found that the model was able to correctly predict the outcome of 67% of the 
 
 ## Setup
 
-To aid in the team composition setup to be used in the model (if you plan on modifying the starting player conditions), an python script to automate team setup is also included in this repository [here](https://github.com/Oddcorner/4211-PAT/blob/main/generator.py).
+To aid in the team composition setup to be used in the model (if you plan on modifying the starting player conditions), a python script to automate team setup is also included in this repository [here](https://github.com/Oddcorner/4211-PAT/blob/main/generator.py).
 
 ## Acknowledgments
 
-Normalised team data found in [teams.csv](https://github.com/Oddcorner/4211-PAT/blob/main/teams.csv) was obtained throught the efforts of team member [@yusufaine](https://github.com/yusufaine/) in his [repository](https://github.com/yusufaine/4211-webscrape).
+Normalised team data found in [teams.csv](https://github.com/Oddcorner/4211-PAT/blob/main/teams.csv) was obtained through the efforts of team member [@yusufaine](https://github.com/yusufaine/) in his [repository](https://github.com/yusufaine/4211-webscrape).
